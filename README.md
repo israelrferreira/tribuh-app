@@ -1,2 +1,2 @@
 # tribuh-app
-Archives for a client's app development
+This app is under construction for Tribuh band
